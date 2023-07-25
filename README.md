@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WYXShawn
-- 👀 I’m working on architecture's robotics (digital fabrication) and computed design.
-- 🌱 I’m currently a student in UPenn's MSD-RAS, looking for a doctoral program for further researches.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m working on educational tangible interaction research.
+- 🌱 I’m currently a Ph.D. student at PolyU.
+- 💞️ I’m looking to collaborate on physical computing area.
 - 📫 Please feel free to email me on yuxuan_1909@163.com
 
 <!---
